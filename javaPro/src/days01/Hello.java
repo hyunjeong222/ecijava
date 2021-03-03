@@ -6,5 +6,8 @@ public class Hello {
 		
 		System.out.println("Hello World");
 		
+		// 강의실에서 추가 코딩
+		System.out.println("hi~");
+		
 	}
 }
